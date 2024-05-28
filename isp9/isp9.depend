@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682344993 source:d:\programe\isp9\main.c
+	<stdio.h>
+	<stdlib.h>
+
